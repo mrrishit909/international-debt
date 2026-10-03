@@ -1,0 +1,24 @@
+{
+  "pulled": "2026-10-03",
+  "ids_last_updated": [
+    "2025-12-03"
+  ],
+  "rows": 79536,
+  "countries_in_metadata": 295,
+  "rows_by_series": {
+    "DT.DOD.DECT.CD|WLD": 6489,
+    "DT.DOD.DPPG.CD|WLD": 6475,
+    "DT.DOD.DPNG.CD|WLD": 3839,
+    "DT.DOD.DSTC.CD|WLD": 6305,
+    "DT.DOD.DIMF.CD|WLD": 6057,
+    "DT.DOD.MLAT.CD|WLD": 6439,
+    "DT.DOD.BLAT.CD|WLD": 6464,
+    "DT.DOD.PBND.CD|WLD": 3194,
+    "DT.DOD.PCBK.CD|WLD": 5090,
+    "DT.DOD.PROP.CD|WLD": 5098,
+    "DT.TDS.DECT.CD|WLD": 7542,
+    "BX.GSR.TOTL.CD|WLD": 5280,
+    "NY.GNP.MKTP.CD|WLD": 6410,
+    "DT.DOD.BLAT.CD|730": 4854
+  }
+}
