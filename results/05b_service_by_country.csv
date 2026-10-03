@@ -1,0 +1,31 @@
+kind,label,countries,above_20pct,share_above_20pct,ratio_pct
+year,2005,104,15,14.4,
+year,2006,104,17,16.3,
+year,2007,107,16,15.0,
+year,2008,109,10,9.2,
+year,2009,110,16,14.5,
+year,2010,112,13,11.6,
+year,2011,111,14,12.6,
+year,2012,112,14,12.5,
+year,2013,113,17,15.0,
+year,2014,113,20,17.7,
+year,2015,115,27,23.5,
+year,2016,115,30,26.1,
+year,2017,113,28,24.8,
+year,2018,113,32,28.3,
+year,2019,116,31,26.7,
+year,2020,116,44,37.9,
+year,2021,115,34,29.6,
+year,2022,114,26,22.8,
+year,2023,113,28,24.8,
+year,2024,108,33,30.6,
+heaviest_2024,El Salvador,,,,96.2
+heaviest_2024,"Egypt, Arab Rep.",,,,49.2
+heaviest_2024,Kazakhstan,,,,48.4
+heaviest_2024,Mozambique,,,,46.5
+heaviest_2024,Papua New Guinea,,,,43.3
+heaviest_2024,Colombia,,,,43.0
+heaviest_2024,Senegal,,,,41.8
+heaviest_2024,Pakistan,,,,39.5
+heaviest_2024,Argentina,,,,38.3
+heaviest_2024,Uzbekistan,,,,36.0

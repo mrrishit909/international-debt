@@ -1,0 +1,16 @@
+name,income_level,debt_bn,share_pct,cumulative_pct,debt_to_gni_pct,service_to_exports_pct,rank_by_size,rank_by_debt_to_gni
+China,Upper middle income,2419.8,27.4,27.4,13.0,8.6,1,106
+India,Lower middle income,716.5,8.1,35.6,18.6,10.5,2,98
+Brazil,Upper middle income,605.5,6.9,42.4,28.7,26.7,3,87
+Mexico,Upper middle income,591.3,6.7,49.1,32.9,9.5,4,81
+Turkiye,Upper middle income,515.0,5.8,55.0,39.4,23.4,5,64
+Indonesia,Upper middle income,421.1,4.8,59.8,31.0,24.7,6,85
+Argentina,Upper middle income,242.4,2.7,62.5,39.1,38.3,7,68
+Colombia,Upper middle income,201.8,2.3,64.8,49.2,43.0,8,42
+Ukraine,Upper middle income,193.5,2.2,67.0,101.3,15.8,9,8
+Thailand,Upper middle income,191.8,2.2,69.2,37.5,4.7,10,71
+South Africa,Upper middle income,175.9,2.0,71.2,44.8,16.3,11,55
+Kazakhstan,Upper middle income,167.5,1.9,73.1,62.6,48.4,12,33
+"Egypt, Arab Rep.",Lower middle income,156.0,1.8,74.8,42.0,49.2,13,59
+Philippines,Upper middle income,137.0,1.6,76.4,26.3,14.4,14,90
+Viet Nam,Upper middle income,132.9,1.5,77.9,28.8,7.7,15,86
